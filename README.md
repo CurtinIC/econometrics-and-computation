@@ -1,6 +1,6 @@
 # Econometrics and Computation
 
-Slides and additional material from the seminar Econometrics and Computation
+[Slides](https://github.com/andreabedini/econometrics-and-computation/blob/master/seminar.pdf) - [Jupyter Notebook](https://github.com/andreabedini/econometrics-and-computation/blob/master/CIC_demo01_spurious.ipynb)
 
 *Presenter:* Associate Professor [Felix Chan](http://oasisapps.curtin.edu.au/staff/profile/view/Felix.chan)
 
